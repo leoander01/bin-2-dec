@@ -35,4 +35,6 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
+VOcê pode acessar o projeto clicando aqui [Bin2Dec](https://bin-two-dec-leoander.netlify.app/).
+
 O Bin2Dec foi desenvolvido como um projeto pessoal para ser adicionado ao meu portfólio.
