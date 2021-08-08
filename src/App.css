@@ -81,7 +81,7 @@ footer {
   position: absolute;
   bottom: 1rem;
   font-size: .85rem;
-  color: #333;
+  color: rgb(85, 85, 85);
 }
 
 /* MEDIA QUERIES */
